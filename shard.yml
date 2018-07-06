@@ -1,0 +1,13 @@
+name: github-tracker-discord/
+version: 0.1.0
+
+authors:
+  - Jason Howell <jasonrobot64@gmail.com>
+
+targets:
+  github-tracker-discord/:
+    main: src/github-tracker-discord/.cr
+
+crystal: 0.25.0
+
+license: MIT
